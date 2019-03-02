@@ -26,7 +26,9 @@ export class Home extends React.Component<IHomeProps, IHomeStates> {
         this.state = {
             selectedUrlIndex: 0,
             historyURL: [
-                "http://sukhmanisakhi.com/feed/",
+                "http://timesofindia.indiatimes.com/rssfeeds/4719161.cms",
+                "http://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+                "http://sukhmanisakhi.com/feed/",                
                 "https://aws.amazon.com/blogs/big-data/feed/"
             ]
         }
