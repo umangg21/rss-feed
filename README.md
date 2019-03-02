@@ -1,4 +1,4 @@
-# Findind Falcone APP
+# RSS Feed APP
 
 RSS Feed APP is developed using React with TypeScript. This a responsive app.
 
