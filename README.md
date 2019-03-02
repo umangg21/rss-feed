@@ -10,7 +10,7 @@ RSS Feed is also live on the following Link: https://umangg21.github.io/rss-feed
 
 RSS Feed App is use to display the RSS Feeds in a organised way.
 
-This app is solution to [https://www.google.com](this) problem.
+This app is solution to [this](assignment/assignment.md) problem.
 
 More RSS Links are availible here whic can be user to search in RSS Feed App: [https://timesofindia.indiatimes.com/rss.cms](https://timesofindia.indiatimes.com/rss.cms)
 
